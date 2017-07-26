@@ -1,4 +1,4 @@
-package log
+package tendermint
 
 import (
 	"github.com/TIBCOSoftware/flogo-lib/core/activity"
