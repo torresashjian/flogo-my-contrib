@@ -1,0 +1,17 @@
+{
+  "name": "tendermint",
+  "type": "flogo:activity",
+  "ref": "github.com/torresashjian/flogo-sample-activity/tendermint",
+  "version": "0.0.1",
+  "title": "Tendermint Integration",
+  "description": "Simple Tendermint Activity Integration",
+  "homepage": "https://github.com/torresashjian/flogo-sample-activity/tree/master/tendermint",
+  "inputs":[
+    {
+      "name": "message",
+      "type": "string",
+      "value": ""
+    }
+  ],
+  "outputs": []
+}
